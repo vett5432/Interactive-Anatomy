@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:13:42.653+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Справочная система</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Справочная система</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; text-indent:48px; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Добро пожаловать в справочную систему приложения Интерактивная анатомия! Здесь вы найдёте описание возможностей программы и советы по использованию. </text></para>
+    <para styleclass="" style="text-align:justify; text-indent:57px; margin-top:7px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

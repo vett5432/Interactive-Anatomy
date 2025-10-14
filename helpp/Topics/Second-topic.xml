@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:20:19.251+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Основная навигация</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Основная навигация</text></para>
+    </header>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;"><link displaytype="text" defaultstyle="true" type="topiclink" href="glavnaya" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">главный экран</link><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> — выбор пола;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><link displaytype="text" defaultstyle="true" type="topiclink" href="systems" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">меню систем</link><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> — список анатомических систем (например, мышечная, нервная и др.);</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><link displaytype="text" defaultstyle="true" type="topiclink" href="anatomel" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">область визуализации </link><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">— изображение системы с активными зонами (органы, кости и др.);</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><link displaytype="text" defaultstyle="true" type="topiclink" href="spravka" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">справка об элементе</link><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> — подробное описание элемента по нажатию.</text></li>
+    </list>
+  </body>
+</topic>

@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Справочная система">
+	<param name="Local" value="introduction.html">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Назначение приложения">
+	<param name="Local" value="welcome-topic.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Инсталляция">
+	<param name="Local" value="new-topic6.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Запуск программы">
+	<param name="Local" value="new-topic7.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Основная навигация">
+	<param name="Local" value="second-topic.html">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Главный экран">
+	<param name="Local" value="glavnaya.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Выбор системы">
+	<param name="Local" value="systems.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Выбор анатомического элемента">
+	<param name="Local" value="anatomel.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Содержание справки">
+	<param name="Local" value="spravka.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Завершение работы">
+	<param name="Local" value="new-topic.html">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Сведения об авторе">
+	<param name="Local" value="new-topic8.html">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</UL>
+</BODY></HTML>

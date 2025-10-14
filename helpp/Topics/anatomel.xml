@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:47:41.598+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Выбор анатомического элемента</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Работа с анатомическими объектами</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-left:52px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">Выбор элемента: &#160;</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:13px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">кликните на любой орган, кость, сосуд или мышцу в режиме просмотра системы. &#160;</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:52px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">Автоматическое открытие справки: &#160;</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:13px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">после клика появится окно с детальной информацией об объекте.</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:13px;"><image src="Снимок экрана (242).png" imagestyleclass="Default" scale="48.44%" width="707" height="455" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

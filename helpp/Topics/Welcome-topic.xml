@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:13:56.614+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Назначение приложения</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Назначение приложения</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; text-indent:48px; margin-bottom:0px;"><text styleclass="" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">Цель разработки заключается в создании доступного и понятного инструмента для изучения анатомии, ориентированного в первую очередь на образовательную аудиторию. Данное приложение сочетает интерактивность, простоту использования и автономность работы, поскольку все материалы хранятся локально. Это делает его особенно актуальным в условиях ограниченного доступа к интернету или специализированному оборудованию.</text></para>
+  </body>
+</topic>

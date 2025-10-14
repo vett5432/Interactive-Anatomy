@@ -1,0 +1,45 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=D:\helpp\InteractiveAnatomyHelp.chm
+Contents file=InteractiveAnatomyHelp.hhc
+Default Window=Main
+Default topic=introduction.html
+Default font=Tahoma,10,204
+Auto Index=No
+Display compile progress=No
+Full-text search=Yes
+Language=0x0419
+Title=
+Error log file=D:\helpp\~tmpchm\InteractiveAnatomyHelp.log
+
+[WINDOWS]
+Main=" ","InteractiveAnatomyHelp.hhc","","introduction.html","introduction.html","","jump1","","jump2",0x061520,200,0x00304E,[-1,-1,-1,-1],0xb0000,,,,,,0
+
+[FILES]
+anatomel.html
+glavnaya.html
+introduction.html
+new-topic.html
+new-topic6.html
+new-topic7.html
+new-topic8.html
+second-topic.html
+spravka.html
+systems.html
+welcome-topic.html
+helpman_topicinit.js
+jquery.js
+helpman_settings.js
+hm_btn_navigate_next.png
+hm_btn_navigate_next_d.png
+hm_btn_navigate_next_orange.png
+hm_btn_navigate_prev.png
+hm_btn_navigate_prev_d.png
+hm_btn_navigate_prev_orange.png
+hm_btn_navigate_top.png
+hm_btn_navigate_top_orange.png
+hmpopup_html.js
+[ALIAS]
+#include .\InteractiveAnatomyHelp.h
+[MAP]
+#include .\InteractiveAnatomyHelp.hm

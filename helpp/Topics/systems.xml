@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:47:01.447+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Выбор системы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Исследование систем организма</text></para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:48px; margin-top:0px; margin-right:0px; margin-bottom:13px; margin-left:0px; line-height:1.15; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">На экране выбор системы отображается как выпадающий список с названиями анатомических систем. </text><text styleclass="Normal" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">После выбора пола станет доступен список с категориями:</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">кровеносная система: &#160;</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-left:26px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">изучите артерии и вены отдельно, выбрав раздел во всплывающем окне;</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">лимфатическая система; &#160;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">нервная система; &#160;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">органы; &#160;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">мышцы; &#160;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">скелет; &#160;</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">репродуктивная система (адаптируется под выбранный пол).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify;"><image src="Снимок экрана (241).png" imagestyleclass="Default" scale="99.15%" width="464" height="330" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

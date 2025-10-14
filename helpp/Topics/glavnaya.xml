@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-06-21T22:46:04.831+03:00" lasteditedby="Liz" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Главный экран</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center; margin-bottom:0px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Выбор пола </text></para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:57px; margin-top:7px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">На главной форме пользователь выбирает пол организма, что задаёт дальнейший путь навигации. На этом экране представлены два визуальных блока (изображения силуэтов мужчины и женщины), стилизованных под учебные материалы. При выборе одного из них пользователь переходит к экрану выбора системы организма.</text><image src="Снимок экрана (238).png" imagestyleclass="Default" scale="57.37%" width="841" height="538" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

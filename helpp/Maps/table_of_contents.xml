@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="458299807059162" build="ALL" modified="2025-06-21T22:13:41.791Z" icon="0" href="Introduction">
+    <caption translate="true">Справочная система</caption>
+    <topicref type="topic" id="458296461310534" build="ALL" modified="2025-06-21T22:13:55.383Z" icon="0" href="Welcome-topic">
+      <caption translate="true">Назначение приложения</caption>
+    </topicref>
+    <topicref type="topic" id="458298058330652" build="ALL" modified="2025-06-21T22:14:15.681Z" icon="0" href="New-topic6">
+      <caption translate="true">Инсталляция</caption>
+    </topicref>
+    <topicref type="topic" id="45831977633975" build="ALL" modified="2025-06-21T22:14:28.262Z" icon="0" href="New-topic7">
+      <caption translate="true">Запуск программы</caption>
+    </topicref>
+    <topicref type="topic" id="458296073564981" build="ALL" modified="2025-06-21T22:14:41.330Z" icon="0" href="Second-topic">
+      <caption translate="true">Основная навигация</caption>
+      <topicref type="topic" id="458300044424134" build="ALL" modified="2025-06-21T22:16:54.205Z" icon="0" href="glavnaya">
+        <caption translate="true">Главный экран</caption>
+      </topicref>
+      <topicref type="topic" id="45828849236193" build="ALL" modified="2025-06-21T22:19:12.803Z" icon="0" href="systems">
+        <caption translate="true">Выбор системы</caption>
+      </topicref>
+      <topicref type="topic" id="458298291109845" build="ALL" modified="2025-06-21T22:19:24.063Z" icon="0" href="anatomel">
+        <caption translate="true">Выбор анатомического элемента</caption>
+      </topicref>
+      <topicref type="topic" id="458296884162198" build="ALL" modified="2025-06-21T22:19:45.288Z" icon="0" href="spravka">
+        <caption translate="true">Содержание справки</caption>
+      </topicref>
+      <topicref type="topic" id="458299063423552" build="ALL" modified="2025-06-21T22:15:57.733Z" icon="0" href="New-topic">
+        <caption translate="true">Завершение работы</caption>
+        <topicref type="topic" id="458300457907455" build="ALL" modified="2025-06-21T22:16:10.951Z" icon="0" href="New-topic8">
+          <caption translate="true">Сведения об авторе</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>
