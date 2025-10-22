@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\проекты\kursovaya\kursovaya\MyForm.cpp(12,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm1.cpp
+  MyForm3.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursovaya.vcxproj -> D:\проекты\kursovaya\x64\Debug\kursovaya.exe
